@@ -1,4 +1,3 @@
-Markdown
 
 # 🚀 Bash Automation & Linux System Administration Projects
 
@@ -37,3 +36,12 @@ Bash
 
 # Run User Management Script
 ./user-management/user_management.sh
+
+
+### 📊 Sample Output (User Management)
+stawar611@cloudshe11:~$ sudo bash user_create.sh TAMAR for QA TEST TEAm passwd:password changed.
+username:TAMAR PATIL
+password：898855885555555
+Cs-198536047897-default I
+
+
