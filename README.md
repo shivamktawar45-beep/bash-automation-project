@@ -42,6 +42,6 @@ Bash
 stawar611@cloudshe11:~$ sudo bash user_create.sh TAMAR for QA TEST TEAm passwd:password changed.
 username:TAMAR PATIL
 password：898855885555555
-Cs-198536047897-default I
+Cs-15853605678955-default r
 
 
